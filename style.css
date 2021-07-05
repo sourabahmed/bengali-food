@@ -131,13 +131,22 @@ h1{
     box-shadow: 0 0 30px 5px grey;
     border-radius: 15px;
 }
-.youtube{
+.social-media{
     width: 33%;
     padding-left:150px ;
     padding-top: 75px;
     padding-bottom: 75px;
 }
-.youtube h2{
+.social-media h2{
     font-size: 40px;
     font-weight: bolder;
+}
+/*fifth section end*/
+.last-footer{
+    margin-bottom: 10px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 100px;
 }
