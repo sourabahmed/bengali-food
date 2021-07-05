@@ -78,3 +78,46 @@ h1{
     padding-bottom: 30px;
     font-weight: bold;
 }
+/*third section end*/
+/*fourth section start*/
+.fourth-section{
+    display: flex;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+}
+.pantha-ilis{
+    width: 33%;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 0 0 30px 5px grey;
+    border-radius: 20px;
+}
+.pantha-ilis img{
+    width: 100%;
+    border-radius: 20px;
+}
+.biriyani{
+    width: 33%;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 0 0 30px 5px grey;
+    border-radius: 20px;
+}
+.biriyani img{
+    width: 100%;
+    border-radius: 20px;
+}
+.sondesh{
+    width: 33%;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 0 0 30px 5px grey;
+    border-radius: 20px;
+}
+.sondesh img{
+    width: 100%;
+    border-radius: 20px;
+}
