@@ -121,3 +121,23 @@ h1{
     width: 100%;
     border-radius: 20px;
 }
+/*fourth section end*/
+/*fifth section start*/
+.fifth-section{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    box-shadow: 0 0 30px 5px grey;
+    border-radius: 15px;
+}
+.youtube{
+    width: 33%;
+    padding-left:150px ;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.youtube h2{
+    font-size: 40px;
+    font-weight: bolder;
+}
