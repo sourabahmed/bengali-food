@@ -2,6 +2,21 @@
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+.nav{
+    background-color: #ffa500;
+    display: flex;
+    justify-content: center;
+}
+.nav-bar{
+    padding: 30px ;
+}
+.nav-bar a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 25px;
+    font-weight: 600;
+}        
 /*first section start*/
 h1{
     font-size: 50px;
@@ -127,7 +142,7 @@ h1{
     display: flex;
     margin-left: 50px;
     margin-right: 50px;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
     box-shadow: 0 0 30px 5px grey;
     border-radius: 15px;
 }
@@ -142,6 +157,19 @@ h1{
     font-weight: bolder;
 }
 /*fifth section end*/
+/*form section start*/
+.sign-up{
+    padding-left: 50px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.sign-up input{
+    padding: 10px 50px;
+    border: 5px solid orange;
+    border-radius: 5px;
+}
+/*footer start*/
 .last-footer{
     margin-bottom: 10px;
     background-color: black;
